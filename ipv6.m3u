@@ -281,6 +281,16 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-id="临沂农科频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂农科频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂频道1" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道1
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111125/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂频道2" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道2
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂频道3" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道3
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113650/playlist.m3u8
+#EXTINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道4
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel114432/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
