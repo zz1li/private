@@ -289,7 +289,18 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113650/playlist.m3u8
 #EXTINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道4
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel116773/playlist.m3u8
-
+TINF:-1 tvg-id="临沂频道5" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道5
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel104910/playlist.m3u8
+TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道6
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel107658/playlist.m3u8
+TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道7
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel108701/playlist.m3u8
+TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道8
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel109125/playlist.m3u8
+TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道9
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel122437/playlist.m3u8
+TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel123942/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
