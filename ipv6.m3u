@@ -9,7 +9,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
-#EXTINF:-1 tvg-name="CCTV5PLUS" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
@@ -275,43 +275,12 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/内蒙古蒙语文化.png" group-title="内蒙频道",蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 tvg-id="临沂新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small453f8c94e42b110ca9d6c59b24ed841a1511330710.jpg" group-title="山东频道",临沂新闻综合频道
+#EXTINF:-1 tvg-name="临沂新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small453f8c94e42b110ca9d6c59b24ed841a1511330710.jpg" group-title="山东频道",临沂新闻综合频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small9209424334b1b8964825f75a91322db71511330890.jpg" group-title="山东频道",临沂公共频道
+#EXTINF:-1 tvg-name="临沂公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/small9209424334b1b8964825f75a91322db71511330890.jpg" group-title="山东频道",临沂公共频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂农科频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂农科频道
+#EXTINF:-1 tvg-name="临沂农科频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂农科频道
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂频道1" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道1
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel104910/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂频道2" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道2
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel107658/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂频道3" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道3
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel108701/playlist.m3u8
-#EXTINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道4
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel109125/playlist.m3u8
-TINF:-1 tvg-id="临沂频道5" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道5
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel110370/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道6
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel110551/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道7
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111125/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道8
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道9
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113650/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel114432/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel116773/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel122437/playlist.m3u8
-TINF:-1 tvg-id="临沂频道4" tvg-logo="http://tv.haoqu99.com/d/file/2017/1122/smalld57fa920f60359a272b80d1dfcea2bd41511330982.jpg" group-title="山东频道",临沂频道10
-https://m3u8-channel.lytv.tv/nmip-media/channellive/channel123942/playlist.m3u8
-
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
@@ -326,27 +295,27 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-name="咪咕运动「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="体育「IPV6」",咪咕运动「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播 𝟙「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 𝟙「IPV6」
+#EXTINF:-1 tvg-name="咪咕直播1「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 1「IPV6」
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播 𝟚「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 𝟚IPV6」
+#EXTINF:-1 tvg-name="咪咕直播2「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 2「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播 𝟛「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 𝟛IPV6」
+#EXTINF:-1 tvg-name="咪咕直播3「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 3「IPV6」
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播 𝟜「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 𝟜IPV6」
+#EXTINF:-1 tvg-name="咪咕直播4「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 4「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="BesTV 𝟙「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟙「IPV6」
+#EXTINF:-1 tvg-name="BesTV 1「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 1「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟚「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟚「IPV6」
+#EXTINF:-1 tvg-name="BesTV 2「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 2「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟛「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟛「IPV6」
+#EXTINF:-1 tvg-name="BesTV 3「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 3「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟜「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟜「IPV6」
+#EXTINF:-1 tvg-name="BesTV 4「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 4「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟝「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟝「IPV6」
+#EXTINF:-1 tvg-name="BesTV 5「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 5「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟞「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟞「IPV6」
+#EXTINF:-1 tvg-name="BesTV 6「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 6「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="BesTV 𝟟「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 𝟟「IPV6」
+#EXTINF:-1 tvg-name="BesTV 7「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育「IPV6」",BesTV 7「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="国际",CNN
 https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
@@ -354,6 +323,10 @@ https://jmp2.uk/SamsungTVPlus/ATBD800001VA.m3u8
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-name="CNA" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际" , CBS News 24/7
+https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际" , ABC News Live
+https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际",NBC News Now
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" group-title="国际",Sky News
@@ -372,3 +345,5 @@ https://jmp2.uk/SamsungTVPlus/CABD1200012B8.m3u8
 https://jmp2.uk/SamsungTVPlus/CABD1200010LE.m3u8
 #EXTINF:-1 tvg-name="CBC Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20240527T200835SQUARE.png" group-title="国际" , CBC Comedy
 https://jmp2.uk/SamsungTVPlus/CABD1200043OK.m3u8
+#EXTINF:-1 tvg-name="Just for Laughs GAGS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240716T002705SQUARE.png" group-title="国际" , Just for Laughs GAGS
+https://jmp2.uk/SamsungTVPlus/USBC4400004KK.m3u8
