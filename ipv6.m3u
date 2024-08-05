@@ -43,13 +43,14 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="巴黎奥运",CCTV-16 奥林匹克
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB翡翠台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/凤凰卫视中文台.png" group-title="卫视频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -336,3 +337,7 @@ https://jmp2.uk/SamsungTVPlus/CABD1200010LE.m3u8
 https://jmp2.uk/SamsungTVPlus/CABD1200043OK.m3u8
 #EXTINF:-1 tvg-name="Just for Laughs GAGS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240716T002705SQUARE.png" group-title="国际" , Just for Laughs GAGS
 https://jmp2.uk/SamsungTVPlus/USBC4400004KK.m3u8
+#EXTINF:-1 tvg-name="F1 TV" group-title="F1" , F1 TV
+https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
+#EXTINF:-1 tvg-name="F1 data" group-title="F1" , F1 data
+https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
