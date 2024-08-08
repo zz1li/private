@@ -51,6 +51,8 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB翡翠台.png" group-title="卫视频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB明珠台.png" group-title="卫视频道",明珠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -315,6 +317,10 @@ https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际" , CBS News 24/7
 https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="国际",BBC One
+http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649777.ts
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="国际",BBC two
+http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649778.ts
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际" , ABC News Live
 https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际",NBC News Now
