@@ -53,7 +53,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB翡翠台.png" group-title="卫视频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB明珠台.png" group-title="卫视频道",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/TVB明珠台.png" group-title="卫视频道",明珠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -319,9 +319,9 @@ https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际" , CBS News 24/7
 https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc1.png" group-title="国际",BBC One
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC One
 http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649777.ts
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc2.png" group-title="国际",BBC two
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC Two
 http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649778.ts
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际" , ABC News Live
 https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
@@ -347,5 +347,5 @@ https://jmp2.uk/SamsungTVPlus/CABD1200043OK.m3u8
 https://jmp2.uk/SamsungTVPlus/USBC4400004KK.m3u8
 #EXTINF:-1 tvg-name="F1 TV" group-title="F1" , F1 TV
 https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
-#EXTINF:-1 tvg-name="F1 data" group-title="F1" , F1 data
+#EXTINF:-1 tvg-name="F1 data" group-title="F1" , F1 Data
 https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
