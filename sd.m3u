@@ -1,399 +1,191 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分组",CCTV-1高清
-rtp://239.253.7.43:53043
-#EXTINF:-1 group-title="未分组",CCTV-2高清
-rtp://239.253.7.74:53215
-#EXTINF:-1 group-title="未分组",CCTV-3
-rtp://239.253.7.252:51121
-#EXTINF:-1 group-title="未分组",CCTV-4高清
-rtp://239.253.7.71:53218
-#EXTINF:-1 group-title="未分组",CCTV-5
-rtp://239.253.7.246:51117
-#EXTINF:-1 group-title="未分组",CCTV-5+高清
-rtp://239.253.7.60:53229
-#EXTINF:-1 group-title="未分组",CCTV-6
-rtp://239.253.7.247:51118
-#EXTINF:-1 group-title="未分组",CCTV-7高清
-rtp://239.253.7.73:53216
-#EXTINF:-1 group-title="未分组",CCTV-8
-rtp://239.253.7.249:51120
-#EXTINF:-1 group-title="未分组",CCTV-9高清
-rtp://239.253.7.72:53217
-#EXTINF:-1 group-title="未分组",CCTV-10高清
-rtp://239.253.7.70:53219
-#EXTINF:-1 group-title="未分组",CCTV-11
-rtp://239.253.7.145:51017
-#EXTINF:-1 group-title="未分组",CCTV-12高清
-rtp://239.253.7.69:53220
-#EXTINF:-1 group-title="未分组",CCTV-13
-rtp://239.253.7.147:51019
-#EXTINF:-1 group-title="未分组",CCTV-14高清
-rtp://239.253.7.68:53221
-#EXTINF:-1 group-title="未分组",CCTV-15
-rtp://239.253.7.149:51021
-#EXTINF:-1 group-title="未分组",CCTV-NEWS
-rtp://239.253.7.143:51015
-#EXTINF:-1 group-title="未分组",CCTV-17高清
-rtp://239.253.7.50:52237
-#EXTINF:-1 group-title="未分组",山东卫视
-rtp://239.253.7.184:51056
-#EXTINF:-1 group-title="未分组",齐鲁频道
-rtp://239.253.7.185:51057
-#EXTINF:-1 group-title="未分组",山东影视高清
-rtp://239.253.7.41:53235
-#EXTINF:-1 group-title="未分组",山东生活高清
-rtp://239.253.7.42:53042
-#EXTINF:-1 group-title="未分组",山东综艺高清
-rtp://239.253.7.40:53236
-#EXTINF:-1 group-title="未分组",山东体育
-rtp://239.253.7.190:51062
-#EXTINF:-1 group-title="未分组",山东新闻
-rtp://239.253.7.186:51058
-#EXTINF:-1 group-title="未分组",山东农科高清
-rtp://239.253.7.85:52238
-#EXTINF:-1 group-title="未分组",山东少儿高清
-rtp://239.253.7.239:52239
-#EXTINF:-1 group-title="未分组",山东国际
-rtp://239.253.7.193:51065
-#EXTINF:-1 group-title="未分组",居家购物
-rtp://239.253.7.131:51100
-#EXTINF:-1 group-title="未分组",山东教育卫视高清
-rtp://239.253.7.48:53002
-#EXTINF:-1 group-title="未分组",湖南卫视
-rtp://239.253.7.151:51023
-#EXTINF:-1 group-title="未分组",浙江卫视
-rtp://239.253.7.150:51022
-#EXTINF:-1 group-title="未分组",东方卫视
-rtp://239.253.7.155:51027
-#EXTINF:-1 group-title="未分组",江苏卫视
-rtp://239.253.7.152:51024
-#EXTINF:-1 group-title="未分组",北京卫视
-rtp://239.253.7.251:51123
-#EXTINF:-1 group-title="未分组",安徽卫视
-rtp://239.253.7.153:51025
-#EXTINF:-1 group-title="未分组",天津卫视高清
-rtp://239.253.7.64:53225
-#EXTINF:-1 group-title="未分组",辽宁卫视高清
-rtp://239.253.7.65:53224
-#EXTINF:-1 group-title="未分组",深圳卫视
-rtp://239.253.7.157:51029
-#EXTINF:-1 group-title="未分组",东南卫视
-rtp://239.253.7.161:51033
-#EXTINF:-1 group-title="未分组",湖北卫视高清
-rtp://239.253.7.66:53223
-#EXTINF:-1 group-title="未分组",广东卫视
-rtp://239.253.7.158:51030
-#EXTINF:-1 group-title="未分组",黑龙江卫视
-rtp://239.253.7.160:51032
-#EXTINF:-1 group-title="未分组",重庆卫视
-rtp://239.253.7.156:51028
-#EXTINF:-1 group-title="未分组",贵州卫视
-rtp://239.253.7.174:51046
-#EXTINF:-1 group-title="未分组",江西卫视
-rtp://239.253.7.168:51040
-#EXTINF:-1 group-title="未分组",河北卫视高清
-rtp://239.253.7.61:53228
-#EXTINF:-1 group-title="未分组",海南卫视
-rtp://239.253.7.163:51035
-#EXTINF:-1 group-title="未分组",四川卫视
-rtp://239.253.7.166:51038
-#EXTINF:-1 group-title="未分组",云南卫视
-rtp://239.253.7.172:51044
-#EXTINF:-1 group-title="未分组",河南卫视
-rtp://239.253.7.170:51042
-#EXTINF:-1 group-title="未分组",广西卫视
-rtp://239.253.7.171:51043
-#EXTINF:-1 group-title="未分组",吉林卫视
-rtp://239.253.7.169:51041
-#EXTINF:-1 group-title="未分组",山西卫视
-rtp://239.253.7.165:51037
-#EXTINF:-1 group-title="未分组",陕西卫视
-rtp://239.253.7.162:51034
-#EXTINF:-1 group-title="未分组",内蒙古卫视
-rtp://239.253.7.173:51045
-#EXTINF:-1 group-title="未分组",宁夏卫视
-rtp://239.253.7.176:51048
-#EXTINF:-1 group-title="未分组",新疆卫视
-rtp://239.253.7.177:51049
-#EXTINF:-1 group-title="未分组",甘肃卫视
-rtp://239.253.7.179:51051
-#EXTINF:-1 group-title="未分组",青海卫视
-rtp://239.253.7.175:51047
-#EXTINF:-1 group-title="未分组",西藏卫视
-rtp://239.253.7.178:51050
-#EXTINF:-1 group-title="未分组",金鹰卡通
-rtp://239.253.7.180:51052
-#EXTINF:-1 group-title="未分组",卡酷动画
-rtp://239.253.7.181:51053
-#EXTINF:-1 group-title="未分组",优漫卡通
-rtp://239.253.7.182:51054
-#EXTINF:-1 group-title="未分组",炫动卡通
-rtp://239.253.7.183:51055
-#EXTINF:-1 group-title="未分组",中国教育-1高清
-rtp://239.253.7.75:15076
-#EXTINF:-1 group-title="未分组",CETV-4
-rtp://239.253.7.202:15070
-#EXTINF:-1 group-title="未分组",中国交通
-rtp://239.253.7.51:53014
-#EXTINF:-1 group-title="未分组",喜剧影院
-rtp://239.253.7.95:52003
-#EXTINF:-1 group-title="未分组",动作影院
-rtp://239.253.7.96:52004
-#EXTINF:-1 group-title="未分组",经典电影
-rtp://239.253.7.97:52005
-#EXTINF:-1 group-title="未分组",少儿动画
-rtp://239.253.7.98:52006
-#EXTINF:-1 group-title="未分组",相声小品
-rtp://239.253.7.99:52007
-#EXTINF:-1 group-title="未分组",财富天下
-rtp://239.253.7.100:52008
-#EXTINF:-1 group-title="未分组",热播剧场
-rtp://239.253.7.101:52009
-#EXTINF:-1 group-title="未分组",魅力时尚
-rtp://239.253.7.102:52010
-#EXTINF:-1 group-title="未分组",墨宝
-rtp://239.253.7.103:52011
-#EXTINF:-1 group-title="未分组",光影
-rtp://239.253.7.104:52012
-#EXTINF:-1 group-title="未分组",美人
-rtp://239.253.7.105:52013
-#EXTINF:-1 group-title="未分组",音乐现场
-rtp://239.253.7.106:52014
-#EXTINF:-1 group-title="未分组",城市剧场
-rtp://239.253.7.107:52015
-#EXTINF:-1 group-title="未分组",地理
-rtp://239.253.7.108:52016
-#EXTINF:-1 group-title="未分组",美妆
-rtp://239.253.7.109:52017
-#EXTINF:-1 group-title="未分组",军旅剧场
-rtp://239.253.7.110:52018
-#EXTINF:-1 group-title="未分组",足球
-rtp://239.253.7.111:52019
-#EXTINF:-1 group-title="未分组",高网
-rtp://239.253.7.112:52020
-#EXTINF:-1 group-title="未分组",古装剧场
-rtp://239.253.7.114:52022
-#EXTINF:-1 group-title="未分组",解密
-rtp://239.253.7.115:52023
-#EXTINF:-1 group-title="未分组",动画
-rtp://239.253.7.116:52024
-#EXTINF:-1 group-title="未分组",早教
-rtp://239.253.7.117:52025
-#EXTINF:-1 group-title="未分组",台球
-rtp://239.253.7.118:52026
-#EXTINF:-1 group-title="未分组",好学生
-rtp://239.253.7.119:52027
-#EXTINF:-1 group-title="未分组",武术
-rtp://239.253.7.120:52028
-#EXTINF:-1 group-title="未分组",国学
-rtp://239.253.7.122:52030
-#EXTINF:-1 group-title="未分组",IPTV法治
-rtp://239.253.7.123:52031
-#EXTINF:-1 group-title="未分组",家庭影院
-rtp://239.253.7.121:52029
-#EXTINF:-1 group-title="未分组",欧美影院
-rtp://239.253.7.31:53131
-#EXTINF:-1 group-title="未分组",亚洲影院
-rtp://239.253.7.29:53129
-#EXTINF:-1 group-title="未分组",山东卫视高清
-rtp://239.253.7.225:51097
-#EXTINF:-1 group-title="未分组",齐鲁高清
-rtp://239.253.7.86:52211
-#EXTINF:-1 group-title="未分组",山东体育高清
-rtp://239.253.7.78:53213
-#EXTINF:-1 group-title="未分组",山东新闻高清
-rtp://239.253.7.79:53212
-#EXTINF:-1 group-title="未分组",山东农科
-rtp://239.253.7.191:51063
-#EXTINF:-1 group-title="未分组",山东少儿
-rtp://239.253.7.192:51064
-#EXTINF:-1 group-title="未分组",湖南卫视高清
-rtp://239.253.7.67:53222
-#EXTINF:-1 group-title="未分组",浙江卫视高清
-rtp://239.253.7.228:51100
-#EXTINF:-1 group-title="未分组",东方卫视高清
-rtp://239.253.7.140:51208
-#EXTINF:-1 group-title="未分组",江苏卫视高清
-rtp://239.253.7.227:51099
-#EXTINF:-1 group-title="未分组",北京卫视高清
-rtp://239.253.7.226:51098
-#EXTINF:-1 group-title="未分组",安徽卫视高清
-rtp://239.253.7.63:53226
-#EXTINF:-1 group-title="未分组",深圳卫视高清
-rtp://239.253.7.231:51103
-#EXTINF:-1 group-title="未分组",东南卫视高清
-rtp://239.253.7.129:51209
-#EXTINF:-1 group-title="未分组",广东卫视高清
-rtp://239.253.7.230:51102
-#EXTINF:-1 group-title="未分组",黑龙江卫视高清
-rtp://239.253.7.229:51101
-#EXTINF:-1 group-title="未分组",贵州卫视高清
-rtp://239.253.7.62:53227
-#EXTINF:-1 group-title="未分组",好享购物
-rtp://239.253.7.18:52107
-#EXTINF:-1 group-title="未分组",家有购物
-rtp://239.253.7.17:52108
-#EXTINF:-1 group-title="未分组",淄博新闻
-rtp://239.253.7.220:51092
-#EXTINF:-1 group-title="未分组",淄博都市
-rtp://239.253.7.219:51091
-#EXTINF:-1 group-title="未分组",淄博生活
-rtp://239.253.7.138:51173
-#EXTINF:-1 group-title="未分组",淄博科教
-rtp://239.253.7.139:51174
-#EXTINF:-1 group-title="未分组",淄博公共
-rtp://239.253.7.245:52038
-#EXTINF:-1 group-title="未分组",济宁综合
-rtp://239.253.8.4:15024
-#EXTINF:-1 group-title="未分组",济宁教育
-rtp://239.253.7.81:53022
-#EXTINF:-1 group-title="未分组",济宁公共
-rtp://239.253.8.3:15023
-#EXTINF:-1 group-title="未分组",QTV-1
-rtp://239.253.2.68:8402
-#EXTINF:-1 group-title="未分组",QTV-2
-rtp://239.253.2.69:8408
-#EXTINF:-1 group-title="未分组",QTV-3
-rtp://239.253.2.70:8414
-#EXTINF:-1 group-title="未分组",QTV-4
-rtp://239.253.2.71:8420
-#EXTINF:-1 group-title="未分组",QTV-5
-rtp://239.253.2.72:8426
-#EXTINF:-1 group-title="未分组",QTV-6
-rtp://239.253.2.73:8432
-#EXTINF:-1 group-title="未分组",菏泽新闻
-rtp://239.253.7.92:52016
-#EXTINF:-1 group-title="未分组",菏泽公共
-rtp://239.253.7.49:53001
-#EXTINF:-1 group-title="未分组",济南新闻
-rtp://239.253.7.194:51066
-#EXTINF:-1 group-title="未分组",济南都市
-rtp://239.253.7.195:51067
-#EXTINF:-1 group-title="未分组",济南生活
-rtp://239.253.7.196:51068
-#EXTINF:-1 group-title="未分组",济南影视
-rtp://239.253.7.197:51069
-#EXTINF:-1 group-title="未分组",济南娱乐
-rtp://239.253.7.198:51070
-#EXTINF:-1 group-title="未分组",济南商务
-rtp://239.253.7.199:51071
-#EXTINF:-1 group-title="未分组",济南少儿
-rtp://239.253.7.200:51072
-#EXTINF:-1 group-title="未分组",济南新闻高清
-rtp://239.253.7.232:51104
-#EXTINF:-1 group-title="未分组",济南教育台
-rtp://239.253.7.82:52069
-#EXTINF:-1 group-title="未分组",济南鲁中频道
-rtp://239.253.7.240:51112
-#EXTINF:-1 group-title="未分组",济南科教
-rtp://239.253.7.241:51113
-#EXTINF:-1 group-title="未分组",聊城综合
-rtp://239.253.7.215:51087
-#EXTINF:-1 group-title="未分组",聊城公共
-rtp://239.253.7.216:51088
-#EXTINF:-1 group-title="未分组",烟台新闻
-rtp://239.253.2.125:8744
-#EXTINF:-1 group-title="未分组",烟台公共
-rtp://239.253.2.126:8750
-#EXTINF:-1 group-title="未分组",烟台经济科技
-rtp://239.253.2.228:9362
-#EXTINF:-1 group-title="未分组",烟台影视
-rtp://239.253.2.229:9368
-#EXTINF:-1 group-title="未分组",潍坊新闻
-rtp://239.253.2.76:8450
-#EXTINF:-1 group-title="未分组",潍坊农业频道
-rtp://239.253.2.77:8456
-#EXTINF:-1 group-title="未分组",滨州综合
-rtp://239.253.7.221:51093
-#EXTINF:-1 group-title="未分组",滨州公共
-rtp://239.253.7.222:51094
-#EXTINF:-1 group-title="未分组",阳信新闻
-rtp://239.253.7.128:52037
-#EXTINF:-1 group-title="未分组",泰安综合
-rtp://239.253.7.87:52047
-#EXTINF:-1 group-title="未分组",泰安公共
-rtp://239.253.7.88:52048
-#EXTINF:-1 group-title="未分组",枣庄新闻
-rtp://239.253.7.84:52026
-#EXTINF:-1 group-title="未分组",枣庄教育
-rtp://239.253.7.250:52027
-#EXTINF:-1 group-title="未分组",日照新闻
-rtp://239.253.2.78:8462
-#EXTINF:-1 group-title="未分组",日照科教
-rtp://239.253.2.79:8468
-#EXTINF:-1 group-title="未分组",莒县综合
-rtp://239.253.2.183:9092
-#EXTINF:-1 group-title="未分组",德州新闻
-rtp://239.253.7.207:51079
-#EXTINF:-1 group-title="未分组",德州公共
-rtp://239.253.7.208:51080
-#EXTINF:-1 group-title="未分组",齐河综合
-rtp://239.253.7.205:15057
-#EXTINF:-1 group-title="未分组",威海新闻
-rtp://239.253.2.123:8732
-#EXTINF:-1 group-title="未分组",威海公共
-rtp://239.253.2.124:8738
-#EXTINF:-1 group-title="未分组",东营综合
-rtp://239.253.7.217:51089
-#EXTINF:-1 group-title="未分组",东营公共
-rtp://239.253.7.218:51090
-#EXTINF:-1 group-title="未分组",临沂综合高清
-rtp://239.253.7.214:51086
-#EXTINF:-1 group-title="未分组",临沂公共
-rtp://239.253.7.136:51308
-#EXTINF:-1 group-title="未分组",临沂农科
-rtp://239.253.7.213:51085
-#EXTINF:-1 group-title="未分组",精选
-rtp://239.253.7.113:52021
-#EXTINF:-1 group-title="未分组",爱生活
-rtp://239.253.7.124:52032
-#EXTINF:-1 group-title="未分组",欢笑剧场
-rtp://239.253.7.30:53130
-#EXTINF:-1 group-title="未分组",天天剧场
-rtp://239.253.7.26:53126
-#EXTINF:-1 group-title="未分组",极速汽车
-rtp://239.253.7.32:53132
-#EXTINF:-1 group-title="未分组",四海钓鱼
-rtp://239.253.7.23:53123
-#EXTINF:-1 group-title="未分组",探索纪实
-rtp://239.253.7.28:53128
-#EXTINF:-1 group-title="未分组",天天探索
-rtp://239.253.7.25:53125
-#EXTINF:-1 group-title="未分组",动漫秀场
-rtp://239.253.7.33:53133
-#EXTINF:-1 group-title="未分组",漫游世界
-rtp://239.253.7.27:53127
-#EXTINF:-1 group-title="未分组",法治天地
-rtp://239.253.7.24:53124
-#EXTINF:-1 group-title="未分组",天天影院高清
-rtp://239.253.7.11:52112
-#EXTINF:-1 group-title="未分组",精彩影视高清
-rtp://239.253.7.10:52122
-#EXTINF:-1 group-title="未分组",全纪实高清
-rtp://239.253.7.6:52162
-#EXTINF:-1 group-title="未分组",少儿动漫高清
-rtp://239.253.7.5:52172
-#EXTINF:-1 group-title="未分组",金色频道高清
-rtp://239.253.7.4:52182
-#EXTINF:-1 group-title="未分组",生活时尚高清
-rtp://239.253.7.3:52192
-#EXTINF:-1 group-title="未分组",天天综合高清
-rtp://239.253.7.2:52202
-#EXTINF:-1 group-title="未分组",海看热播高清
-rtp://239.253.7.238:51110
-#EXTINF:-1 group-title="未分组",海看电竞世界高清
-rtp://239.253.7.83:52110
-#EXTINF:-1 group-title="未分组",海看演艺
-rtp://239.253.7.233:51105
-#EXTINF:-1 group-title="未分组",海看教育
-rtp://239.253.7.224:51096
-#EXTINF:-1 group-title="未分组",海看健康
-rtp://239.253.7.234:51106
-#EXTINF:-1 group-title="未分组",海看爱宠高清
-rtp://239.253.7.223:51095
-#EXTINF:-1 group-title="未分组",海看少儿高清
-rtp://239.253.7.235:51107
-#EXTINF:-1 group-title="未分组",海看剧场高清
-rtp://239.253.7.236:51108
-#EXTINF:-1 group-title="未分组",海看大片高清
-rtp://239.253.7.90:52109
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV5
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV5+
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV6
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV7
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV9
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV10
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV11
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV12
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV13
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV14
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV15
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV17
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",湖北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",河北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",云南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 group-title="有线频道,#genre#",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CETV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",山东教育卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",纪实科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",纪实人文
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",金鹰纪实
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CCTV4欧洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CCTV4美洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN西语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN法语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN阿语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CGTN俄语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",快乐垂钓
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",茶频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",梨园频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",武术世界
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",文物宝库
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",海洋频道
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CETV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",居家购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",汽摩
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",动漫秀场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",法治天地
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",精彩影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",乐游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",金色学堂
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",生活时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",魅力足球
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",游戏风云
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",东方财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",劲爆体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CHC家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CHC影迷电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:-1 group-title="文化频道,#genre#",CHC动作电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 group-title="数字频道,#genre#",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="数字频道,#genre#",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="数字频道,#genre#",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="数字频道,#genre#",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="数字频道,#genre#",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
