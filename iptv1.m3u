@@ -58,9 +58,9 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226049/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="临沂综合" tvg-logo="https://live.fanmingming.com/tv/临沂综合.png" group-title="山东频道",临沂综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225984/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="临沂经济" tvg-logo="https://live.fanmingming.com/tv/临沂经济.png" group-title="山东频道",临沂经济
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+http://39.134.144.6:8089/PLTV/88888888/224/3221225914/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="临沂公共" tvg-logo="https://live.fanmingming.com/tv/临沂公共.png" group-title="山东频道",临沂公共
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+http://39.134.144.6:8089/PLTV/88888888/224/3221225982/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兰陵综合" tvg-logo="https://live.fanmingming.com/tv/兰陵综合.png"group-title="山东频道",兰陵综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225938/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兰陵公共" tvg-logo="https://live.fanmingming.com/tv/兰陵公共.png"group-title="山东频道",兰陵公共
@@ -131,7 +131,7 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226399/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226405/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="文化频道",CGTN俄语
 http://39.134.144.6:8089/PLTV/88888888/224/3221226326/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="文化频道",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="http://https://live.fanmingming.com/tv/CETV1.png" group-title="文化频道",CETV1
 http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" tvg-logo="" group-title="文化频道",纪实科教
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
@@ -153,7 +153,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="海洋频道" tvg-logo="" group-title="文化频道",海洋频道
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="" group-title="文化频道",CETV4
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="http://https://live.fanmingming.com/tv/CETV4.png" group-title="文化频道",CETV4
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="文化频道",汽摩
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
