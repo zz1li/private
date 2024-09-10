@@ -307,38 +307,38 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="咪咕运动「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="体育「IPV6」",咪咕运动「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播1「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 1「IPV6」
+#EXTINF:-1 tvg-name="咪咕直播1「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 1「IPV6」
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播2「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 2「IPV6」
+#EXTINF:-1 tvg-name="咪咕直播2「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 2「IPV6」
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播3「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 3「IPV6」
+#EXTINF:-1 tvg-name="咪咕直播3「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 3「IPV6」
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播4「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 4「IPV6」
+#EXTINF:-1 tvg-name="咪咕直播4「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 4「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="国际",BBC 
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="CNA" group-title="国际",CNA
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际" , CBS News 24/7
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际",CBS News 24/7
 https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
 #EXTINF:-1 tvg-name="BBC One" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC One
 http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649777.ts
 #EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC Two
 http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649778.ts
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际" , ABC News Live
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际", ABC News Live
 https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际",NBC News Now
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" group-title="国际",Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+https://i.mjh.nz/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-name="Wion News" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/wion.png" group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际" , NBC News NOW
-https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8   
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20221026T004154SQUARE.png_20221026004155.png" group-title="国际" , Bloomberg TV+
-https://jmp2.uk/SamsungTVPlus/ATBA3300018K1.m3u8
+https://i.mjh.nz/bloomberg-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-name="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="国际" , CBC News Explore
 https://jmp2.uk/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:-1 tvg-name="BBC Home & Garden" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20230726T004553SQUARE.png_20230726004554.png" group-title="国际" , BBC Home & Garden
