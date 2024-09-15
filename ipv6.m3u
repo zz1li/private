@@ -332,13 +332,13 @@ https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际",NBC News Now
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" group-title="国际",Sky News
-https://i.mjh.nz/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/sky-news-now.m3u8
 #EXTINF:-1 tvg-name="Wion News" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/wion.png" group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际" , NBC News NOW
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8   
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20221026T004154SQUARE.png_20221026004155.png" group-title="国际" , Bloomberg TV+
-https://i.mjh.nz/bloomberg-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/bloomberg-tv.m3u8
 #EXTINF:-1 tvg-name="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="国际" , CBC News Explore
 https://jmp2.uk/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:-1 tvg-name="BBC Home & Garden" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20230726T004553SQUARE.png_20230726004554.png" group-title="国际" , BBC Home & Garden
