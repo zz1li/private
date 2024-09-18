@@ -203,3 +203,21 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳频道",明珠台
+http://avd.iptviptv.site:9694/hls/103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳频道",翡翠台
+http://avd.iptviptv.site:9694/hls/98/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="港澳频道",千禧经典台
+http://avd.iptviptv.site:9694/hls/901/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://live.fanmingming.com/tv/Animax.png" group-title="港澳频道",Animax
+http://avd.iptviptv.site:9694/hls/903/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/meiyamovie.png" group-title="港澳频道",美亚电影台
+http://avd.iptviptv.site:9694/hls/904/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳频道",TVB PLUS
+http://avd.iptviptv.site:9694/hls/905/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳频道",无线新闻台
+http://avd.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映經典頻道" tvg-logo="https://live.fanmingming.com/tv/天映經典頻道.png" group-title="港澳频道",天映經典頻道
+http://avd.iptviptv.site:9694/hls/914/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黃金翡翠台.png" group-title="港澳频道",黃金翡翠台
+http://avd.iptviptv.site:9694/hls/916/index.m3u8
