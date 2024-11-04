@@ -354,34 +354,19 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="国际",CBS News 24/7
-https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC One
-http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649777.ts
-#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/bbc.png" group-title="国际",BBC Two
-http://defaultgen.com:3050/live/matt22/fTFdwJ82y4/649778.ts
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="国际", ABC News Live
 https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际",NBC News Now
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" group-title="国际",Sky News
-https://i.mjh.nz/sky-news-now.m3u8
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-name="Wion News" tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/wion.png" group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="国际" , NBC News NOW
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8   
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20221026T004154SQUARE.png_20221026004155.png" group-title="国际" , Bloomberg TV+
-https://i.mjh.nz/bloomberg-tv.m3u8
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="CBC News Explore" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="国际" , CBC News Explore
 https://jmp2.uk/SamsungTVPlus/CABC2300009KD.m3u8
-#EXTINF:-1 tvg-name="BBC Home & Garden" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20230726T004553SQUARE.png_20230726004554.png" group-title="国际" , BBC Home & Garden
-https://jmp2.uk/SamsungTVPlus/CABD1200012B8.m3u8
-#EXTINF:-1 tvg-name="BBC Home & Garden" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20230912T232702SQUARE.png_20230912232703.png" group-title="国际" , BBC Food
-https://jmp2.uk/SamsungTVPlus/CABD1200010LE.m3u8
-#EXTINF:-1 tvg-name="CBC Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20240527T200835SQUARE.png" group-title="国际" , CBC Comedy
-https://jmp2.uk/SamsungTVPlus/CABD1200043OK.m3u8
-#EXTINF:-1 tvg-name="Just for Laughs GAGS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240716T002705SQUARE.png" group-title="国际" , Just for Laughs GAGS
-https://jmp2.uk/SamsungTVPlus/USBC4400004KK.m3u8
-#EXTINF:-1 tvg-name="F1 TV" group-title="F1" , F1 TV
-https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
-#EXTINF:-1 tvg-name="F1 data" group-title="F1" , F1 Data
-https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
+
