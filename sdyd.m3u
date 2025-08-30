@@ -181,18 +181,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png",游戏风云
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
-#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="https://live.fanmingming.cn/tv/崇明电视台.png",崇明电视台
-https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://live.fanmingming.cn/tv/嘉定电视台.png",嘉定电视台
-https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$1080P
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻.png",中天新闻
-http://122.117.109.23:8595/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png",寰宇新闻
-http://122.117.109.23:8570/http/61.67.128.137:8088/hls/76/818/ch62.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png",CETV-1
 http://39.134.144.6:8089/PLTV/88888888/224/3221226252/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png",CETV-2
@@ -497,31 +489,3 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221225935/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="广饶新闻" tvg-logo="https://live.fanmingming.cn/tv/广饶新闻.png",广饶新闻
 http://39.134.144.6:8089/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕视频1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="体育频道",咪咕视频1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕视频2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="体育频道",咪咕视频2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕视频3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="体育频道",咪咕视频3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕视频4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="体育频道",咪咕视频4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="咪咕视频5" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="体育频道",咪咕视频5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="咪咕运动「IPV6」" tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="体育「IPV6」",咪咕运动「IPV6」
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播1「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 1「IPV6」
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播2「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 2「IPV6」
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播3「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 3「IPV6」
-http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播4「IPV6」" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育「IPV6」",咪咕直播 4「IPV6」
-http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png" group-title="国际",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="BBC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="国际",BBC 
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
