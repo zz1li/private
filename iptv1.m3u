@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1综合.png",CCTV1综合
 http://39.134.144.6:8089/PLTV/88888888/224/3221225859/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.cn/tv/CCTV2财经.png",CCTV2财经
@@ -524,4 +523,5 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
